@@ -6,7 +6,7 @@ This project is a complete machine learning pipeline, contained within a Jupyter
 ## 2. Setup and Run
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/seo-content-detector.git
+    git clone https://github.com/nagashreem363/SEO-Content-Quality-Duplicate-Detector.git
     cd seo-content-detector
     ```
 2.  **Install dependencies:**

@@ -6,3 +6,4 @@ requests
 tqdm
 openpyxl
 numpy
+textstat

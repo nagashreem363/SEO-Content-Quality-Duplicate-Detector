@@ -8,7 +8,7 @@ This project is a complete machine learning pipeline, contained within a Jupyter
 The **Streamlit app** is deployed on **Streamlit Cloud**.
 
  **Live App Link:**  
- [SEO Content Quality & Duplicate Detector](https://seo-content-quality-duplicate-detector-nagashreem363.streamlit.app)
+ [SEO Content Quality & Duplicate Detector](https://seo-content-quality-duplicate-detector-jjvqzq3s4anyneni3a8dvr.streamlit.app/)
 
 ###  Deployment Details:
 - **Platform:** Streamlit Cloud  

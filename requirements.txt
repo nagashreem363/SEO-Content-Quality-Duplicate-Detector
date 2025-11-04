@@ -7,3 +7,5 @@ tqdm
 openpyxl
 numpy
 textstat
+scikit-learn
+gdown

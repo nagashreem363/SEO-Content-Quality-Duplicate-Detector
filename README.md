@@ -3,6 +3,26 @@
 ## 1. Project Overview
 This project is a complete machine learning pipeline, contained within a Jupyter Notebook, that analyzes web content for SEO quality and duplication. It scrapes content from a list of URLs, extracts NLP features, detects near-duplicate articles, and uses a classification model to score content quality as Low, Medium, or High.
 
+##  Web App Deployment  
+
+The **Streamlit app** is deployed on **Streamlit Cloud**.
+
+ **Live App Link:**  
+ [SEO Content Quality & Duplicate Detector](https://seo-content-quality-duplicate-detector-nagashreem363.streamlit.app)
+
+###  Deployment Details:
+- **Platform:** Streamlit Cloud  
+- **Main file:** `app/app.py`  
+- **Repository:** Public GitHub repository  
+- **Data Folder:** `seo-content-detector/data`  
+- **Model Outputs:** Automatically generated and visualized via Streamlit  
+
+Once the app loads, you can:
+- View extracted content data  
+- Explore NLP features  
+- Check detected duplicate or similar URLs  
+
+
 ## 2. Setup and Run
 1.  **Clone the repository:**
     ```bash

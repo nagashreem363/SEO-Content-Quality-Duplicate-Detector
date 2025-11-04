@@ -31,18 +31,18 @@ except Exception:
 # In[5]:
 
 
-for pkgs in [
-    "beautifulsoup4==4.12.3",
-    "requests==2.32.3",
-    "pandas==2.2.2",
-    "numpy==1.26.4",
-    "scikit-learn==1.4.2",
-    "textstat==0.7.4",
-    "tqdm==4.66.4",
-    "lxml==5.2.2",
-    "gdown==5.1.0",
-]:
-    pip_install(pkgs)
+#for pkgs in [
+ #   "beautifulsoup4==4.12.3",
+  #  "requests==2.32.3",
+   # "pandas==2.2.2",
+    #"numpy==1.26.4",
+    #"scikit-learn==1.4.2",
+    #"textstat==0.7.4",
+    #"tqdm==4.66.4",
+   #"lxml==5.2.2",
+    #"gdown==5.1.0",
+#]:
+ #   pip_install(pkgs)
 
 
 # In[6]:
